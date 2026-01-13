@@ -1,3 +1,3 @@
 2025 오픈 소스 실습
 
-testest
+test
